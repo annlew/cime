@@ -1273,7 +1273,7 @@ using a fortran linker.
   </FFLAGS>
   <FFLAGS>
     <append DEBUG="FALSE"> -O2 -xAVX </append>
-    <append MODEL="micom"> -r8 </append>
+    <append MODEL="blom"> -r8 </append>
   </FFLAGS>
   <CFLAGS>
     <append> -xCORE-AVX2 -fPIC -mcmodel=large -no-fma </append>
